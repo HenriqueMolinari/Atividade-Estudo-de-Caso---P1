@@ -1,4 +1,4 @@
-# 📌 Calculadora Científica em Dart
+# 📌 Calculadora "Científica" em Dart
 
 ## 📖 Descrição
 Este projeto foi desenvolvido como parte da disciplina de **Programação Orientada a Objetos (POO)**.  
@@ -31,25 +31,6 @@ O código foi estruturado utilizando **conceitos de POO**:
 2. Execute o programa usando:
     `dart run bin/main.dart`
 3. O menu aparecerá no terminal. Basta escolher a opção desejada e digitar os números quando solicitado.
-
----
-
-📋 Exemplo de Uso
-
-======== CALCULADORA CIENTIFICA ============
-Selecione o número correspondente à operação:
-[1] Soma (+)
-[2] Subtração (-)
-[3] Multiplicação (*)
-[4] Divisão (/)
-[5] Todas as opções
-[0] Sair
-1
-Digite o primeiro número inteiro:
-10
-Digite o segundo número inteiro:
-5
-10 + 5 = 15
 
 ---
 
