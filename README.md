@@ -8,7 +8,7 @@ O código foi estruturado utilizando **conceitos de POO**:
 - **Encapsulamento**: os cálculos ficam na classe `Calculadora`.
 - **Abstração**: o sistema principal interage apenas com a interface simples (`SistemaCalculadora`).
 - **Organização em camadas**: a pasta `lib/` contém as classes principais e a pasta `bin/` contém o ponto de entrada do programa.
-
+- **Método Construtor**:  a classe Calculadora possui um método construtor que inicializa os objetos, garantindo que cada instância comece em um estado válido.
 
 ---
 
@@ -36,7 +36,7 @@ O código foi estruturado utilizando **conceitos de POO**:
 
 👨‍🎓 Informações Acadêmicas
 
-Autor: Henrique de O. Molinari
-RA: 25001176
-Turma: B
-Docente responsável: Nivaldo
+- Autor: Henrique de O. Molinari
+- RA: 25001176
+- Turma: B
+- Docente responsável: Nivaldo
